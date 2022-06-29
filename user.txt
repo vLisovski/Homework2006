@@ -1,0 +1,92 @@
+Number of ships:
+10
+Ship name: Missuri
+Passengers: 2984
+Day of departure: 3
+Hour of departure: 2
+Minute of departure: 37
+Day of arrival: 14
+Hour of arrival: 13
+Minute of arrival: 47
+
+Ship name: St.Anna
+Passengers: 1540
+Day of departure: 4
+Hour of departure: 6
+Minute of departure: 15
+Day of arrival: 29
+Hour of arrival: 1
+Minute of arrival: 18
+
+Ship name: Titanic
+Passengers: 3479
+Day of departure: 5
+Hour of departure: 22
+Minute of departure: 21
+Day of arrival: 27
+Hour of arrival: 2
+Minute of arrival: 22
+
+Ship name: Plaza
+Passengers: 3206
+Day of departure: 11
+Hour of departure: 5
+Minute of departure: 12
+Day of arrival: 16
+Hour of arrival: 8
+Minute of arrival: 34
+
+Ship name: Rover
+Passengers: 2910
+Day of departure: 12
+Hour of departure: 21
+Minute of departure: 53
+Day of arrival: 17
+Hour of arrival: 13
+Minute of arrival: 11
+
+Ship name: King Artur
+Passengers: 1551
+Day of departure: 16
+Hour of departure: 4
+Minute of departure: 33
+Day of arrival: 7
+Hour of arrival: 20
+Minute of arrival: 1
+
+Ship name: Queen Mari
+Passengers: 2270
+Day of departure: 16
+Hour of departure: 5
+Minute of departure: 54
+Day of arrival: 25
+Hour of arrival: 3
+Minute of arrival: 28
+
+Ship name: Maria
+Passengers: 1814
+Day of departure: 17
+Hour of departure: 16
+Minute of departure: 10
+Day of arrival: 20
+Hour of arrival: 15
+Minute of arrival: 20
+
+Ship name: Liner Horizon
+Passengers: 3125
+Day of departure: 19
+Hour of departure: 5
+Minute of departure: 10
+Day of arrival: 13
+Hour of arrival: 18
+Minute of arrival: 50
+
+Ship name: OceanLord
+Passengers: 2627
+Day of departure: 22
+Hour of departure: 15
+Minute of departure: 6
+Day of arrival: 18
+Hour of arrival: 22
+Minute of arrival: 27
+
